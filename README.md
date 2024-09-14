@@ -1,6 +1,6 @@
 Nex Valor is an advanced trading strategy that integrates multiple technical indicators to create a comprehensive and adaptive trading system. By combining MACD, RSI, SMA, and SuperTrend, this strategy aims to identify optimal trading opportunities by considering market trends, momentum, and volatility.
 
-Uses and Objectives
+#Uses and Objectives
 
 Detect Market Trends: SMA (Simple Moving Average) is used to determine the long-term and short-term market direction.
 
@@ -59,7 +59,6 @@ Regular Review: Regularly review and adjust the strategy based on performance me
 
 *For donations or support, you can send to the following Solana wallet address:
 
-CAUUQxtPFCLCrwg2idkjxZGa7fSDTd3gi9mQdGige3Ag 
-SOL
+CAUUQxtPFCLCrwg2idkjxZGa7fSDTd3gi9mQdGige3Ag
 
 https://www.tradingview.com/script/eVqITV2L-Nex-Valor-by-Karmalabs/
