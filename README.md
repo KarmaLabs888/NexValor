@@ -1,14 +1,14 @@
-Nex Valor is an advanced trading strategy that integrates multiple technical indicators to create a comprehensive and adaptive trading system. By combining MACD, RSI, SMA, and SuperTrend, this strategy aims to identify optimal trading opportunities by considering market trends, momentum, and volatility.
+*Nex Valor* is an advanced trading strategy that integrates multiple technical indicators to create a comprehensive and adaptive trading system. By combining MACD, RSI, SMA, and SuperTrend, this strategy aims to identify optimal trading opportunities *by considering market trends, momentum, and volatility*.
 
-#Uses and Objectives
+Uses and Objectives
 
-Detect Market Trends: SMA (Simple Moving Average) is used to determine the long-term and short-term market direction.
+*Detect Market Trends*: SMA (Simple Moving Average) is used to determine the long-term and short-term market direction.
 
-Measure Momentum: MACD (Moving Average Convergence Divergence) assesses the strength of the current trend.
+*Measure Momentum*: MACD (Moving Average Convergence Divergence) assesses the strength of the current trend.
 
-Evaluate Market Conditions: RSI (Relative Strength Index) helps identify overbought or oversold conditions to avoid false signals.
+*Evaluate Market Conditions*: RSI (Relative Strength Index) helps identify overbought or oversold conditions to avoid false signals.
 
-Set Entry and Exit Points: SuperTrend and ATR (Average True Range) are used to establish adaptive stop loss and take profit levels based on market volatility.
+*Set Entry and Exit Points*: SuperTrend and ATR (Average True Range) are used to establish adaptive stop loss and take profit levels based on market volatility.
 Application in Different Conditions
 
 Bullish Trends (Rising Market)
